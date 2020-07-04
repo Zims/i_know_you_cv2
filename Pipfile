@@ -12,6 +12,10 @@ opencv-python = "*"
 mtcnn = "*"
 matplotlib = "*"
 pypi = "*"
+numpy = "*"
+face-recognition = "*"
+dlib = "*"
+cmake = "*"
 
 [requires]
 python_version = "3.8"
