@@ -9,6 +9,9 @@ autopep8 = "*"
 
 [packages]
 opencv-python = "*"
+mtcnn = "*"
+matplotlib = "*"
+pypi = "*"
 
 [requires]
 python_version = "3.8"

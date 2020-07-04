@@ -17,7 +17,7 @@ while True:
         gray,
         scaleFactor=1.5,
         minNeighbors=5,
-        minSize=(30, 30),
+        minSize=(20, 20),
         flags=cv2.CASCADE_SCALE_IMAGE
     )
 
