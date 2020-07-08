@@ -4,7 +4,9 @@
 Using openCV detect faces in photos<br>
 
 Then do the same on a live webcam feed<br>
-
+More info here<br>
+https://zimbim.tech/face-recognition/
+<br>
 <h2>Recognise</h2><br>
 Import photos of people and make the script recognise them<br>
 
