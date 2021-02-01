@@ -14,3 +14,8 @@ Import photos of people and make the script recognise them<br>
 Using:<br>
 DilanKalpa / FaceDetection<br> and<br> 
 WasekRahman / easiest_real_time_face_recognition
+
+<h2>Update...</h2><br>
+Hooking into my security cameras feed to get the video<br>
+Run the scrip to recognise faces from there
+
