@@ -1,9 +1,11 @@
 import face_recognition
 import cv2
 import numpy as np
+import secrets
 
 # Get a reference to webcam #0 (the default one)
 video_capture = cv2.VideoCapture(0)
+# "url" pass it instead of the "0" below
 
 # Load a sample picture and learn how to recognize it.
 zims_image = face_recognition.load_image_file("zims.png")
